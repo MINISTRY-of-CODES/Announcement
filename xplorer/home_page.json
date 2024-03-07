@@ -1,9 +1,9 @@
 {
-  "title":"欢迎使用 Xplorer ！",
-  "title_en":"Welcome to Xplorer!",
-  "content":"如果遇到 Bug，可以通过「反馈」页面告诉我们！",
-  "content_en":"If you encounter a bug, you can tell us through the 'Feedback' page!",
+  "title":"洗衣机小程序进入维护",
+  "title_en":"Laundry Mini App is under maintenance",
+  "content":"我们正在与该公司进行合作适配，请等待回复通知，谢谢",
+  "content_en":"We are in the process of adapting with this company, please wait for a reply notice, thank you!",
   "goto":"https://www.xmum.app",
-  "time":"2024-02-24",
-  "level":"info"
+  "time":"2024-03-05",
+  "level":"warn"
 }
