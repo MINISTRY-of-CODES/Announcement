@@ -1,9 +1,9 @@
 {
-  "title":"洗衣机小程序进入维护",
-  "title_en":"Laundry Mini App is under maintenance",
-  "content":"我们正在与该公司进行合作适配，请等待恢复通知，谢谢",
-  "content_en":"We are in the process of adapting with this company, please wait for notice, thank you!",
+  "title":"洗衣机小程序已经可以正常使用",
+  "title_en":"Laundry Mini App is already available for normal use.",
+  "content":"洗衣机小程序已经可以正常使用",
+  "content_en":"Laundry Mini App is already available for normal use.",
   "goto":"https://www.xmum.app",
-  "time":"2024-03-05",
-  "level":"warn"
+  "time":"2024-03-15",
+  "level":"info"
 }
