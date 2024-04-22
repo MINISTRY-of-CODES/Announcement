@@ -1,9 +1,9 @@
 {
-  "title":"洗衣机小程序已经可以正常使用",
-  "title_en":"Laundry Mini App is already available for normal use.",
-  "content":"洗衣机小程序已经可以正常使用",
-  "content_en":"Laundry Mini App is already available for normal use.",
+  "title":"[新版本]二手市场等功能已上线并修复大量 bug， 请大家尽快更新~",
+  "title_en":"请前往App Store / Play Store 下载更新",
+  "content":"[New version] The second-hand market and other functions have been launched and a large number of bugs have been fixed. Please update as soon as possible~",
+  "content_en":"Please go to App Store / Play Store to download the update",
   "goto":"https://www.xmum.app",
-  "time":"2024-03-15",
-  "level":"info"
+  "time":"2024-04-22",
+  "level":"warn"
 }
