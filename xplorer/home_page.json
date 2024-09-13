@@ -6,5 +6,6 @@
   "goto": "https://i1.minecraft-wiki.site/update.php",
   "time": "2024-09-01",
   "end_time": "2024-09-30",
-  "level": "info"
+  "level": "info",
+  "version": "1.9.0"
 }
